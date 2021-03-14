@@ -1,5 +1,5 @@
 # solve_cupcake
-npm insatll
+npm install
 
 # start
 npm run dev
