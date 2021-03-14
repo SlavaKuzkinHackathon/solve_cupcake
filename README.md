@@ -4,8 +4,10 @@ npm insatll
 # start
 npm run dev
 
-# two releases
+# one release
 https://solve-cupcake.herokuapp.com/
+
+# second release
 https://blissful-swirles-841ce8.netlify.app/
 
 # server
